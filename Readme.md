@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Customer.cs](./CS/SilverlightApplication1/Customer.cs) (VB: [Customer.vb](./VB/SilverlightApplication1/Customer.vb))
+* [MainPage.xaml.cs](./CS/SilverlightApplication1/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication1/MainPage.xaml.vb))
+* **[Service1.svc.cs](./CS/WcfService1/Service1.svc.cs) (VB: [Service1.svc.vb](./VB/WcfService1/Service1.svc.vb))**
+* [Web.config](./CS/WcfService1/Web.config) (VB: [Web.config](./VB/WcfService1/Web.config))
+<!-- default file list end -->
 # How to connect to a remote data service from a Silverlight application
 
 
